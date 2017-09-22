@@ -1,0 +1,13 @@
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\HelloRaspbian
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\HelloRaspbian.deps.json
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\HelloRaspbian.runtimeconfig.json
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\HelloRaspbian.runtimeconfig.dev.json
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\HelloRaspbian.dll
+C:\projects\vscode\2\HelloRaspbian\bin\Release\netcoreapp2.0\linux-arm\HelloRaspbian.pdb
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\HelloRaspbian.csproj.CoreCompileInputs.cache
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\HelloRaspbian.AssemblyInfoInputs.cache
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\HelloRaspbian.AssemblyInfo.cs
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\HelloRaspbian.dll
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\linux-arm\HelloRaspbian.pdb

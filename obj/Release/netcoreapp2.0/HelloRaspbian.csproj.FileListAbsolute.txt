@@ -1,0 +1,10 @@
+C:\projects\vscode\2\HelloRaspbian\bin\HelloRaspbian.deps.json
+C:\projects\vscode\2\HelloRaspbian\bin\HelloRaspbian.runtimeconfig.json
+C:\projects\vscode\2\HelloRaspbian\bin\HelloRaspbian.runtimeconfig.dev.json
+C:\projects\vscode\2\HelloRaspbian\bin\HelloRaspbian.dll
+C:\projects\vscode\2\HelloRaspbian\bin\HelloRaspbian.pdb
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\HelloRaspbian.csproj.CoreCompileInputs.cache
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\HelloRaspbian.AssemblyInfoInputs.cache
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\HelloRaspbian.AssemblyInfo.cs
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\HelloRaspbian.dll
+C:\projects\vscode\2\HelloRaspbian\obj\Release\netcoreapp2.0\HelloRaspbian.pdb
